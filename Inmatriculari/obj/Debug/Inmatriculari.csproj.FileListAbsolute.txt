@@ -1,0 +1,12 @@
+D:\Programare_IT\C#\Inmatriculari\Inmatriculari\bin\Debug\Inmatriculari.exe.config
+D:\Programare_IT\C#\Inmatriculari\Inmatriculari\bin\Debug\Inmatriculari.exe
+D:\Programare_IT\C#\Inmatriculari\Inmatriculari\bin\Debug\Inmatriculari.pdb
+D:\Programare_IT\C#\Inmatriculari\Inmatriculari\obj\Debug\Inmatriculari.csproj.AssemblyReference.cache
+D:\Programare_IT\C#\Inmatriculari\Inmatriculari\obj\Debug\Inmatriculari.csproj.SuggestedBindingRedirects.cache
+D:\Programare_IT\C#\Inmatriculari\Inmatriculari\obj\Debug\Inmatriculari.Properties.Resources.resources
+D:\Programare_IT\C#\Inmatriculari\Inmatriculari\obj\Debug\Inmatriculari.csproj.GenerateResource.cache
+D:\Programare_IT\C#\Inmatriculari\Inmatriculari\obj\Debug\Inmatriculari.csproj.CoreCompileInputs.cache
+D:\Programare_IT\C#\Inmatriculari\Inmatriculari\obj\Debug\Inmatriculari.exe
+D:\Programare_IT\C#\Inmatriculari\Inmatriculari\obj\Debug\Inmatriculari.pdb
+D:\Programare_IT\C#\Inmatriculari\Inmatriculari\obj\Debug\Inmatriculari.AdaugaAsigurare.resources
+D:\Programare_IT\C#\Inmatriculari\Inmatriculari\obj\Debug\Inmatriculari.Verificare.resources
